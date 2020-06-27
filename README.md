@@ -1,7 +1,7 @@
 # task2
 
 
-## Design a online shopping webpage using HTML
+## Design an online shopping webpage using HTML
 
 
 
